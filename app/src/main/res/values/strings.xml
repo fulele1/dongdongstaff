@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">咚咚快递端</string>
+    <string name="app_pro">咚咚快递</string>
+    <string name="app_exit">退出</string>
+    <string name="finished">完成</string>
+    <string name="com_url">www.qbdongdong.com</string>
+    <string name="phone_num">手机：</string>
+    <string name="psw">密码：</string>
+    <string name="edit_psw">请输入密码</string>
+    <string name="edit_phone">请输入手机号码</string>
+    <string name="login">登录</string>
+    <string name="find">找回密码</string>
+    <string name="check_code">验证码：</string>
+    <string name="edit_code">请输入验证码</string>
+    <string name="edit_conpsw">请确认密码</string>
+
+</resources>
